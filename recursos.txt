@@ -1,0 +1,31 @@
+INSTALACIONES
+https://gist.github.com/Klerith/e2c1fe2bcf5bfcd0a12fff653e725284
+
+https://create-react-app.dev/docs/getting-started/
+https://app.quicktype.io/
+
+documentacion
+https://reactnative.dev/docs/running-on-device
+
+
+SECCION MI PRIMER app
+https://reactnative.dev/docs/environment-setup
+https://reactnative.dev/docs/stylesheet
+https://reactnative.dev/docs/touchableopacity
+https://reactnative.dev/docs/touchablenativefeedback#useforeground
+https://reactnative.dev/docs/components-and-apis
+
+crear shadow
+https://ethercreative.github.io/react-native-shadow-generator/
+
+
+SECCION 5 FLEXBOX
+https://reactnative.dev/docs/flexbox
+
+
+SECCION 6 CALCULADOREA DE IOS
+
+SECCION 7 NAVEGACIONAPP TODOS LOS TIPOS DE NAVEGACION
+
+
+
